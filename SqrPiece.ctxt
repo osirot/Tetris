@@ -1,5 +1,0 @@
-#BlueJ class context
-comment0.params=r\ c\ g
-comment0.target=SqrPiece(int,\ int,\ Grid)
-comment0.text=\r\n\ Create\ a\ Square-Shape\ piece.\ \ See\ class\ description\ for\ actual\ location\r\n\ of\ r\ and\ c\r\n\ @param\ r\ row\ location\ for\ this\ piece\r\n\ @param\ c\ column\ location\ for\ this\ piece\r\n\ @param\ g\ the\ grid\ for\ this\ game\ piece\r\n\ \r\n
-numComments=1
